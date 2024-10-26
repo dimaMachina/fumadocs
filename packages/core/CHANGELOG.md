@@ -1,5 +1,11 @@
 # next-docs-zeta
 
+## 14.1.0
+
+### Minor Changes
+
+- 90725c1: Support server-side `highlight` and client `useShiki` hook
+
 ## 14.0.2
 
 ## 14.0.1
